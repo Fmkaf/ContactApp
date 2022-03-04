@@ -8,6 +8,7 @@ You should have the following installed on your system
 ->MySql
 How to run the App:
 Download the ContactApp repo zip file
+Download the FronEndFadi repo also for the frontend: https://github.com/Fmkaf/FrontEndFadi
 Step-1:Open the unzipped file
 Step-2:Open VScode and install corresponding extensions
       ->Spring Boot Extension Pack

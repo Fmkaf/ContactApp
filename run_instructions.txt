@@ -7,6 +7,7 @@ You should have the following installed on your system
 How to run the App:
 
 Download the ContactApp repo zip file into yoyr system and unzip it
+Download the FronEndFadi repo also for the frontend
 
 Step-1:Open the unzipped file
 Step-2:Open VScode and install corresponding extensions
